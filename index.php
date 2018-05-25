@@ -23,6 +23,7 @@ $chat->throwmessage(1,'this is a test message');
 
 <html>
 <head>
+   <title>Lets Chat</title>
    
    <link href="css/styles.css" rel="stylesheet"/>
 </head>
