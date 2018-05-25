@@ -1,0 +1,20 @@
+bodt{ 
+   font:0.8em Arial;
+}
+
+
+.chat .messages{
+  border:1px solid #ccc;
+  width:250px;
+  height:210px;
+  padding:10px;
+  overflow-y: scroll;
+}
+
+.chat .entry{
+
+    width: 260px;
+    height: 40px;
+    padding: 5px;
+    margin:5px;
+}
